@@ -45,7 +45,7 @@ calculator-repl/
 Clone the repository and set up your environment:
 ```
 
-git clone https://github.com/<your-username>/calculator-repl.git
+git clone https://github.com/ArthNangar/assignment4.git
 cd calculator-repl
 python -m venv .venv
 source .venv/bin/activate   # On Windows: .venv\Scripts\activate
